@@ -6,7 +6,7 @@
  *                             /  ,,
  * Bubo – Observable Contracts and Specialized Implementations.
  *                              |/
- * Copyright 2015 FiftyThree
+ * Copyright 2015 FiftyThree, Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
